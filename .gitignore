@@ -216,3 +216,21 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# PyCharm
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Figures
+reports/figures/*.png
+reports/figures/*.jpg
+
+# Data (optional - keep commented for assignment)
+# data/*.csv
+# data/*.xlsx
+# data/*.zip
+
