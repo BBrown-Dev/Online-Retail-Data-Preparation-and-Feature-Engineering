@@ -1,0 +1,12 @@
+## Runtime dependencies (pinned minimums for reproducibility)
+pandas>=1.5.3,<3.0
+numpy>=1.23.0
+matplotlib>=3.5.0
+seaborn>=0.12.0
+scikit-learn>=1.0.2
+openpyxl>=3.0.10
+
+# Optional developer tools (uncomment to install)
+# pytest>=7.0
+# black>=23.1.0
+# flake8>=6.0.0
